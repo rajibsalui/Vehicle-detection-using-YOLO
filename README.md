@@ -1,6 +1,6 @@
 # Screenshots
 
-![Vehicle Detection Screenshot](Screenshot (84).png)
+![Vehicle Detection Screenshot](Screenshot.png)
 
 # Contributing Guide
 
